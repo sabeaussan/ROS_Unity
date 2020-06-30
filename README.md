@@ -19,10 +19,14 @@
 #### Braccio robot following the movements of virtual Unity Braccio Robot. Base rotation need to be fixed.
 
 ![alt text](https://github.com/sabeaussan/ROS_Unity/blob/master/WebCam.png?raw=true)
+#### Pose estimation of an Aruco marker
 
 #### TODO :
+
 - Fix braccio rotation
 - Add sim2real transfer 
-  linked articles : 
+  linked articles : https://arxiv.org/pdf/2002.11635.pdf
+		    https://arxiv.org/pdf/1709.07857.pdf
+ 		    https://arxiv.org/pdf/1910.07113.pdf
 
 
